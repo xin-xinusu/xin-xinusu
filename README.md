@@ -8,6 +8,8 @@ I'm a seasoned **Full-Stack Developer** with over a decade of experience in the 
 
 - **Blockchain Development**: Proficient in Solidity and Ethereum, with hands-on experience in various NFT standards like ERC721, 721A, and Limitbreaks 721C.
 - **Smart Contract Development**: Skilled in developing robust smart contracts for NFTs, ERC20 tokens, and more.
+- **MEV**: Front running and sandwich bots, flashloan and arbitrage contracts.
+- **Multichain**: EVM's (Ethereum, Base, BSC, Polygon, Arbitrum), Solana and Bitcoin.
 - **Full-Stack Web Development**: Expertise in JavaScript frameworks and libraries, with a strong background in both front-end and back-end development.
 - **AI Integration**: Experience in creating AI-driven solutions like auto-blogging APIs and social media automation tools.
 - **Community Building**: Developed Discord bots and community tools to enhance user engagement and foster vibrant ecosystems.
