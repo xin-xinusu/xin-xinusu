@@ -41,7 +41,7 @@ I've worked with a range of clients, from startups to established companies, hel
 
 - **Twitter**: [@xinusu](https://twitter.com/xinusu)
 - **Website**: [Xinusu.com](https://www.xinusu.com)
-- **Email**: [Email](xinusu@gmail.com)
+- **Email**: xinusu@gmail.com
 
 Feel free to explore my repositories (although most are private based on client request) and reach out if you have any questions or collaboration ideas. I'm always excited to connect with fellow developers and innovators in the Web3 space!
 
