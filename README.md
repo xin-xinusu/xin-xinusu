@@ -49,4 +49,6 @@ Feel free to explore my repositories (although most are private based on client 
 
 ---
 
-Thank you for visiting my GitHub profile. Let's build the future together! 🌐
+Thank you for visiting my GitHub profile. ❌ Most of my repos are private based on client request, reach out if you looking for something specific. 
+
+Let's build the future together! 🌐
