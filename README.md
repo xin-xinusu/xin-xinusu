@@ -4,7 +4,7 @@
 
 I'm a seasoned **Full-Stack Developer** with over a decade of experience in the tech industry, specialising in **Web3** development. I've spent the last seven years diving deep into blockchain, smart contracts, decentralised applications, and developing innovative solutions for various industries.
 
-Currently, I'm working as a **Senior Front-End Developer** at **Billetto**, focusing on reimagining and improving their platform using **Next.js**, integrating features like **Apple Music** and **Spotify** logins, and enhancing the user experience across multiple systems. I've also been involved in projects like **building a commodity deal tracker** and **implementing a mineral trading API** in React, all while continuing to push the boundaries of blockchain and Web3 technology.
+Currently, I'm working as a **Senior Front-End Developer** at **Billetto**, focusing on reimagining and improving their platform using **Next.js** and enhancing the user experience across multiple systems. I've also been involved in projects like **building a commodity deal tracker** and **implementing a mineral trading API** in React, all while continuing to push the boundaries of blockchain and Web3 technology.
 
 ## 🛠️ Skills
 
